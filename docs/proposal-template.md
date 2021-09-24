@@ -1,10 +1,14 @@
 Team name: JUMPERS
 
-Team members:
+Team members: Matthew King,
 
 # Introduction
 
-(In 2-4 paragraphs, describe your project concept)
+In our project, we are aiming to create a 2d, movement-based vertical platformer. The recently released Nexile game [Jump King](https://nexile.se/jump-king/) will serve as our primary source of inspiration, and we will try to replicate several mechanics, but we hope to have our finished project have distinct mechanics and aesthetics that differentiate it from Jump King.
+
+Our game will be focused on upwards traversal: scaling obstacles, landing on challengingly placed platforms, and progressing farther within a set amount of "stages" that flow into one another. Jumping will be the main (and possibly sole) method of achieving this. Holding down the designated jump button will charge the jump, causing a higher altitude when released. Jumping will also be directional, allowing the player to aim their jumps across the screen, but the method we will use to accomplish this has yet to be determined. Powerups are also something we aim to include down the line. Increasing your jump height and adding a double jump are ideas we already have for potential items/abilities, and we hope to include more as the project progresses. 
+
+Art direction will largely depend on the assets we find, but we hope to shoot for a fantasy themed aesthetic: knights, shining armor, cobblestone overgrown by moss, swords and shields, etc. We will use a pixel art design to improve the speed and ease at which we stylize the game. Music will have a similarly retro sound, with simple MIDI melodies looping as the game progresses.
 
 # Anticipated Technologies
 
