@@ -16,12 +16,15 @@ We are planning to use Unity for the bulk of our game. None of our team members 
 
 # Method/Approach
 
-(What is your estimated "plan of attack" for developing this project)
+We are planning on using an agile type aproach to our project. This way each of us can be working and testing different parts of the code/project. We want to be able to do hard coding and ad different sprites and music simultaniously. Agile allows each of us to be working on a different part of the project, as long as we tracking what were doing and keeping good notes it should make out life easier.
 
 # Estimated Timeline
 
-(Figure out what your major milestones for this project will be, including how long you anticipate it *may* take to reach that point)
+Our first major milestone will be creating a game with controls that we can use and like. Then we will want to add platforms and make them have good hitboxes with our sprite. Once we have a good base setup we will then have to design the levels and character arts. The baseline for the game will probably take a couple weeks, just learning the esystem then figuring out how to create controls for our character and platforms to jump on. The next step will probably be the bulk of the project, making an interesting to play game and having good level design with interesting but challenging platforming.
 
 # Anticipated Problems
 
-(Describe any problems you foresee that you will need to overcome)
+* Hard to use controls, not as responsive as expected
+* Platform detection
+* Unique and interesting level design
+
