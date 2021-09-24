@@ -1,6 +1,6 @@
 Team name: JUMPERS
 
-Team members: Matthew King,
+Team members: Matthew King, Brayden Lane, 
 
 # Introduction
 
