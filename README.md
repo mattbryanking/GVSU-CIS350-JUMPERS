@@ -6,7 +6,7 @@ We are planning to make a sprite-based, movement-focused 2D platformer similar t
 
 * [Matthew King](https://github.com/mattbryanking/CIS350-HW2-King) (Role 1, Role 2)
 * [Brayden Lane](https://github.com/brayden57/CIS350-HW2-Lane.git) (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* [Chase Kerr](https://github.com/madskillzx4/CIS305-HW2-Kerr) (Role 5, Role 6)
 
 ## Prerequisites
 
