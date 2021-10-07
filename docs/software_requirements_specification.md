@@ -10,7 +10,7 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     4. The player shall not be allowed to jump while in midair.
     5. The player shall not carry momentum through movement or jumps.
 2. Level Design
-    1. Levels shall not take more than 30 seconds to complete using the optimal path.
+    1. Levels shall not take more than 1 minute to complete using the optimal path.
     2. Jumps shall not span more than 3 units high, or 4 units in length.
     3. Each level shall have a minimum of 5 coins, and a maximum of 20 coins available.
 3. Character/Object Collision
