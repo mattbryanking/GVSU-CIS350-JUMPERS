@@ -9,3 +9,4 @@ User, Shop Manager, Inventory Manager
 * NF3i
 * NF4i
 ### Use-Cases: 
+No prior use-cases needed
