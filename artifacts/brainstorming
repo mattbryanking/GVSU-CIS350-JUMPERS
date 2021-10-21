@@ -1,0 +1,27 @@
+## player characteristics (movement, skills, etc.)
+* two seperate skill trees
+  * movement speed/ grappling??
+    *sliding, grapple gun?, climbing surfaces
+  * changing how, and how high the player can jump
+    *double jump, long jump
+  * many of the skills can be upgrades to refresh rate for certain special jumps
+  *have a part of the inventory for selecting what kind of special jump we want to have
+
+## level ideas
+* auto-scroller??? (will this fit with the map style we want to create? use these for secret levels maybe?)
+  *horizantal; jumping over/under boxes and having to pick alternate routes
+  *vertical; quick pased jumping, falling obstacles to avoid
+    *some sort of on screen notification for where obstacles are going to fall from
+
+## enemy types???
+* spike turtle- slowly walks around on one platform
+*poison frog- jumos around/at player throughout level, must be avoided. if hit, cancels jump and takes a heart away
+
+
+## traps/items
+* false platform
+*deteriorating platform
+*time delay spike trap platform
+*bouncy platform
+*geysers that stop or slow players jumps in midair. have to go around somehow maybe
+*homing rocket that screws up players controls for a set period of time
