@@ -27,10 +27,7 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     3. Movement shall be standardized and shall not depend on any external factors, such as clock speed or monitor resolution.
 2. Level Design
     1. All levels shall have atleast two distinct ways to be completed from start to finish.
-    2. The entrance to secret levels shall be marked by a small "x" set into the wall. 
-        1. To gain entrance to the secret level, a specific item called a drill must be used by the player on the "x" to open the entrance.
     4. Levels shall be able to progress in any of the four cardinal directions, allowing for more creative design.
-    5. Coins shall be the main system of currency to be used in chapter shops, and secret shops.
 3. Menus
     1. The use of menus in game shall pause the game, stopping all timers and movement.
     2. Menus shall allow players to view their inventory, save the game, quit the game, or return to the game.
