@@ -13,12 +13,15 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     1. Levels shall not take more than 1 minute to complete using the optimal path.
     2. Jumps shall not span more than 3 units high, or 4 units in length, unless under the influence of powerups
     3. Each level shall have a minimum of 5 coins, and a maximum of 20 coins available.
+    4. colliding with a "kill box", "spike trap", or "slime" (death traps) shall kill the player, removing all powerups, and restarting the level
 3. Character/Object Collision
     1. Character shall not fall through solid objects
     2. Background objects shall not have collision
     3. One way objects shall only have collision on the correct side
     4. Character collision shall cause breakaway objects to start breaking
     5. Break away objects shall lose collision when broken // do if possible
+    6. powerups shall last throughout the entire level the player is currently on
+    7. negative powerups shall be removed if the "clear debuff" powerup is used
 
 # Non-Functional Requirements
 1. Player Movement
@@ -28,6 +31,7 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
 2. Level Design
     1. All levels shall have atleast two distinct ways to be completed from start to finish.
     4. Levels shall be able to progress in any of the four cardinal directions, allowing for more creative design.
+    5. death traps shall be consistent across all levels
 3. Menus
     1. The use of menus in game shall pause the game, stopping all timers and movement.
     2. Menus shall allow players to use powerups, quit the game, or return to the game.
