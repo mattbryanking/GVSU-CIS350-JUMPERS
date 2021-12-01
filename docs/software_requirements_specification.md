@@ -22,6 +22,7 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     5. Break away objects shall lose collision when broken // do if possible
     6. powerups shall last throughout the entire level the player is currently on
     7. negative powerups shall be removed if the "clear debuff" powerup is used
+    8. negative powerups have the chance to soft-lock the player, forcing them to restart the level through death
 
 # Non-Functional Requirements
 1. Player Movement
@@ -30,13 +31,17 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     3. Movement shall be standardized and shall not depend on any external factors, such as monitor resolution.
 2. Level Design
     1. All levels shall have atleast two distinct ways to be completed from start to finish.
-    4. Levels shall be able to progress in any of the four cardinal directions, allowing for more creative design.
-    5. death traps shall be consistent across all levels
+    2. Levels shall be able to progress in any of the four cardinal directions, allowing for more creative design.
+    3. death traps shall be consistent across all levels
+    4. player death shall reset the player back to the same spot in each level
 3. Menus
     1. The use of menus in game shall pause the game, stopping all timers and movement.
     2. Menus shall allow players to use powerups, quit the game, or return to the game.
+    3. the inventory hotbar shall always be present on the screen.
+    4. coins collected shall be displayed on screen.
 4. Theme
     1. The levels shall have a consistent theme
-    2. The game shall have a pixelated style with a similar background and music
+    2. The game shall have a pixelated art style
     3. Characters shall have the same art style
+    4. enemies shall have the same sprites across all levels
 
