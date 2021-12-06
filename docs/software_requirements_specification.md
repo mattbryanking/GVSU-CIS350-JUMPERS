@@ -17,12 +17,10 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
 3. Character/Object Collision
     1. Character shall not fall through solid objects
     2. Background objects shall not have collision
-    3. One way objects shall only have collision on the correct side
-    4. Character collision shall cause breakaway objects to start breaking
-    5. Break away objects shall lose collision when broken // do if possible
-    6. powerups shall last throughout the entire level the player is currently on
-    7. negative powerups shall be removed if the "clear debuff" powerup is used
-    8. negative powerups have the chance to soft-lock the player, forcing them to restart the level through death
+    3. the player shall stay in the same spot on moving platforms
+    4. powerups shall last throughout the entire level the player is currently on
+    5. negative powerups shall be removed if the "clear debuff" powerup is used
+    6. negative powerups have the chance to soft-lock the player, forcing them to restart the level through death
 
 # Non-Functional Requirements
 1. Player Movement
