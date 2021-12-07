@@ -28,7 +28,7 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     2. There shall not be more than a 5-frame delay before pressing a key and starting the corresponding animation.
     3. Movement shall be standardized and shall not depend on any external factors, such as monitor resolution.
 2. Level Design
-    1. All levels shall have atleast two distinct ways to be completed from start to finish.
+    1. Some levels may require powerups to be completed.
     2. Levels shall be able to progress in any of the four cardinal directions, allowing for more creative design.
     3. death traps shall be consistent across all levels
     4. player death shall reset the player back to the same spot in each level
