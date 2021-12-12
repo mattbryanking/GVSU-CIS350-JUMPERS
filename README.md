@@ -15,3 +15,5 @@ The game must be ran on a windows, mac, or linux machine, preferably with an asp
 ## Run Instructions
 
 Built game is in two parts, the [Final Build](https://github.com/mattbryanking/GVSU-CIS350-JUMPERS/blob/master/artifacts/game/Final%20Build.rar) and [Unity Player](https://github.com/mattbryanking/GVSU-CIS350-JUMPERS/blob/master/artifacts/game/UnityPlayer.rar). Download and unzip each, and place UnityPlayer.dll inside the Final Build folder, where the exe files are located. Once combined, click on CIS 350 Jumpers.exe and the game will start. Arrow keys will control menus, and WASD, arrow keys, and space bar will control gameplay. Q will reset you to the main menu, R will reset the level, and E will use any debuff powerups in your inventory.
+
+NOTE: Losing focus of the title screen will destroy timing. Try not to click away or alt-tab while intro sequence is playing for best experience.
