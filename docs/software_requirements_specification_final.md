@@ -47,3 +47,10 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     3. Characters shall have the same art style
     4. enemies shall have the same sprites across all levels
     5. All sprites shall have consistent hitboxes that reflect their design and animation.
+
+
+# document hyperlinks
+
+1. presentation
+    https://docs.google.com/presentation/d/18Q9oEvJyqH_AdAuD2b_W7ug9jM_6TXgoKCIyEJUg7mU/edit?usp=sharing
+2. 
