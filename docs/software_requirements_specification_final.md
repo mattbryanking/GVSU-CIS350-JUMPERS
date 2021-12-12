@@ -53,4 +53,5 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
 
 1. presentation
     https://docs.google.com/presentation/d/18Q9oEvJyqH_AdAuD2b_W7ug9jM_6TXgoKCIyEJUg7mU/edit?usp=sharing
-2. 
+2. artifacts
+    https://github.com/mattbryanking/GVSU-CIS350-JUMPERS/tree/master/artifacts/use_case_diagrams
