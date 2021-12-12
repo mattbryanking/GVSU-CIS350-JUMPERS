@@ -5,23 +5,23 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
 # Functional Requirements
 1. Player Movement
     1. The player character shall stop moving and prepare to jump while the jump button is being pressed down, regardless of other keys pressed.
-    2. The player character shall move horizontally with A and D, and shall jump with space bar.
+    2. The player character shall move horizontally with A and D and shall jump with space bar.
     3. The player character’s anticipated jump direction shall change if the left or right movement keys are pressed while charging a jump.
     4. The player shall not be allowed to jump while in midair.
     5. The player shall not carry momentum through movement or jumps.
 2. Level Design
     1. Levels shall not take more than 2 minutes to complete using the optimal path.
-    2. Jumps shall not span more than 3 units high, or 4 units in length, unless under the influence of powerups
+    2. Jumps shall not span more than 3 units high, or 4 units in length, unless under the influence of powerups.
     3. Each level shall have a minimum of 5 coins, and a maximum of 20 coins available.
-    4. colliding with a "kill box", "spike trap", or "slime" (death traps) shall kill the player, removing all powerups, and restarting the level
-    5. Levels shall be completed by reaching, and colliding with a flag placed somewhere in the level
+    4. colliding with a "kill box", "spike trap", or "slime" (death traps) shall kill the player, removing all powerups, and restarting the level.
+    5. Levels shall be completed by reaching and colliding with a flag placed somewhere in the level.
 3. Character/Object Collision
-    1. Character shall not fall through solid objects
-    2. Background objects shall not have collision
-    3. the player shall stay in the same spot on moving platforms
-    4. powerups shall last throughout the entire level the player is currently on
-    5. negative powerups shall be removed if the "clear debuff" powerup is used
-    6. negative powerups have the chance to soft-lock the player, forcing them to restart the level through death
+    1. Character shall not fall through solid objects.
+    2. Background objects shall not have collision.
+    3. the player shall have to move with the moving platforms to remain on them.
+    4. powerups shall last throughout the entire level the player is currently on.
+    5. negative powerups shall be removed if the "clear debuff" powerup is used.
+    6. negative powerups have the chance to soft lock the player, forcing them to restart the level through death.
 
 # Non-Functional Requirements
 1. Player Movement
@@ -42,10 +42,10 @@ This is a requirements page to aid us in our creation of JUMPERS. There are two 
     4. coins collected shall be displayed on screen.
     5. debuff items shall be used by pressing the ";" button on your keyboard.
 4. Theme
-    1. The levels shall have a consistent theme
-    2. The game shall have a pixelated art style
-    3. Characters shall have the same art style
-    4. enemies shall have the same sprites across all levels
+    1. The levels shall have a consistent theme.
+    2. The game shall have a pixelated art style.
+    3. Characters shall have the same art style.
+    4. enemies shall have the same sprites across all levels.
     5. All sprites shall have consistent hitboxes that reflect their design and animation.
 
 
