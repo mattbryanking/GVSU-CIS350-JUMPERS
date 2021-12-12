@@ -1,6 +1,6 @@
 # JUMPERS
 
-We are planning to make a sprite-based, movement-focused 2D platformer similar to [Jump King](https://nexile.se/jump-king/). We are using the Unity engine, and are planning on using online assets for the project. As the project plan becomes clearer and more fleshed out, this descirption will be updated to reflect those advancements.
+JUMPERS is a sprite-based, movement-focused 2D platformer similar to [Jump King](https://nexile.se/jump-king/). The game aims to combine comfortable platforming with a difficult jump mechanic to create a platformer that rewards forward thinking. Levels are simple but punishing, and use powerups to add variety. We used the Unity engine and C# to develop the game. Assets were taken online from various resources like itch.io, the Unity Store, and SoundCloud, and all fall within fair use.
 
 ## Team Members and Roles
 
@@ -10,7 +10,7 @@ We are planning to make a sprite-based, movement-focused 2D platformer similar t
 
 ## Prerequisites
 
-The game must be ran on a windows machine, preferably with an aspect ratio wider than 16:10 (although the game will be formatted correctly and will run perfectly with any asepct ratio or resolution. Any modern (or just non-ancient) hardware will run the game fine. 
+The game must be ran on a windows, mac, or linux machine, preferably with an aspect ratio wider than 16:10 (although the game will be formatted correctly and will run perfectly with any aspect ratio or resolution. Any modern (or just non-ancient) hardware will run the game fine. 
 
 ## Run Instructions
 
