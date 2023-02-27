@@ -5,7 +5,7 @@ JUMPERS is a sprite-based, movement-focused 2D platformer similar to [Jump King]
 ## Team Members and Roles
 
 * [Matthew King](https://github.com/mattbryanking/CIS350-HW2-King) (Assets/Art, Music, Title Screen, Level Design)
-* [Brayden Lane](https://github.com/brayden57/CIS350-HW2-Lane.git) (Role 3, Role 4)
+* [Brayden Lane](https://github.com/brayden57/CIS350-HW2-Lane.git) (Physics, Organization, Bug Testing)
 * [Chase Kerr](https://github.com/madskillzx4/CIS305-HW2-Kerr) (Movement, Enemies, Skill Chart, Level Design)
 
 ## Prerequisites
